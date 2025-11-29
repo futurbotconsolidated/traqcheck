@@ -1,0 +1,22 @@
+# FastAPI Framework
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# LangChain
+langchain
+langchain-google-genai
+langchain-community
+
+# Google Generative AI
+google-genai
+
+# HTTP Client
+httpx
+
+# AWS SES
+boto3
+
+# Environment
+python-dotenv

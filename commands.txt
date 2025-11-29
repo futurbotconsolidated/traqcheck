@@ -1,0 +1,4 @@
+celery -A backend beat --loglevel=info
+celery -A backend worker --loglevel=info
+python manage.py runserver
+python main.py
